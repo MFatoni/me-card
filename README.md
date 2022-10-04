@@ -1,16 +1,10 @@
-# me_card
+## Objective
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Learn how to create Stateless Widgets
+* Learn the difference between hot reload and hot refresh and running an app from cold
+* Learn how to use Containers to lay out your UI
+* Learn how to use Columns and Rows to position your UI elements
+* Learn how to add custom fonts
+* Learn how to add Material icons
+* Learn how to style Text widgets
+* Learn how to read and use Flutter Documentation
